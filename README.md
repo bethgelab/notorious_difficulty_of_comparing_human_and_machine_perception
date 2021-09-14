@@ -1,9 +1,5 @@
 # Five Points to Check when Comparing Visual Perception in Humans and Machines 
 
-In this repository, you find the code to run the experiments of all three case studies and the corresponding visualizations published in 
-
-[Five Points to Check when Comparing Visual Perception in Humans and Machines# Five Points to Check when Comparing Visual Perception in Humans and Machines 
-  
 In this repository, you find the code to run the experiments of all three case studies and the corresponding visualizations published in
 
 [Five Points to Check when Comparing Visual Perception in Humans and Machines](https://jov.arvojournals.org/article.aspx?articleid=2772393)<br/>
